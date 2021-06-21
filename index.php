@@ -3,11 +3,13 @@
 <html>
 
 	<head>
-		<title>Minha Pagina SOCPS</title>
+		<title>Minha Avaliação</title>
 	</head>
 	<body>
 		<h1>
-			<?php echo"hello world".date("d,m,y"); ?>
+			<?php echo "Vinicius Clemente da Silva Quintino"?>
+			<?php echo "".date("d,m,y"); ?>
+			<?php echo "Avaliação SOCPS II" ?>
 		</h1>	
 
 	</body>
